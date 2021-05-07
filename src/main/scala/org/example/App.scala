@@ -4,6 +4,6 @@ package org.example
  * Hello world!
  *
  */
-object App extends Application {
-  println( "Hello World!" )
+object App1 /*extends Application */{
+  //println( "Hello World!" )
 }
